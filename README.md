@@ -1,4 +1,1 @@
-#Karatheodorou
-##Loukia
-###Clustering 
-*Question 10
+#Example of README.md
